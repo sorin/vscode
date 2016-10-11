@@ -14,6 +14,8 @@
 
     { "key": "cmd+p",                 "command": "-workbench.action.quickOpen" },
     { "key": "shift+cmd+o",           "command": "-workbench.action.gotoSymbol" },
-    { "key": "shift+cmd+o",           "command": "workbench.action.quickOpen" }
+    { "key": "shift+cmd+o",           "command": "workbench.action.quickOpen" },
 
+    { "key": "f7",                    "command": "workbench.action.compareEditor.nextChange" },
+    { "key": "shift+f7",              "command": "workbench.action.compareEditor.previousChange" }
 ]
