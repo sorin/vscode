@@ -1,0 +1,20 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    // WebStorm bindings
+    { "key": "alt+cmd+left",          "command": "-workbench.action.previousEditor" },
+    { "key": "alt+cmd+left",          "command": "workbench.action.navigateBack" },
+
+    { "key": "alt+cmd+right",         "command": "-workbench.action.nextEditor" },
+    { "key": "alt+cmd+right",         "command": "workbench.action.navigateForward" },
+
+    { "key": "ctrl+q",                "command": "-extension.gotoLastEditLocation" },
+    { "key": "shift+cmd+backspace",   "command": "extension.gotoLastEditLocation" },
+
+    { "key": "ctrl+g",                "command": "-workbench.action.gotoLine" },
+    { "key": "cmd+l",                 "command": "workbench.action.gotoLine" },
+
+    { "key": "cmd+p",                 "command": "-workbench.action.quickOpen" },
+    { "key": "shift+cmd+o",           "command": "-workbench.action.gotoSymbol" },
+    { "key": "shift+cmd+o",           "command": "workbench.action.quickOpen" }
+
+]
