@@ -1,5 +1,6 @@
 {
-    "workbench.list.openMode": "doubleClick",
+    "workbench.editor.enablePreview": true,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
     "editor.minimap.enabled": false,
     "workbench.colorTheme": "Default Light+",
 }
